@@ -13,8 +13,8 @@
 </pre>
 
 
-Project created using React & Redux.
+Marvel Heroes Client App created using [React](https://facebook.github.io/react/ "React") & [Redux](https://github.com/reactjs/redux "Redux").
 
-Webpack Module Bundler.
+[Webpack](https://webpack.github.io/ "Webpack") Module Bundler.
 
-Node.js wrapper for working with the official Marvel Comics API.
+[marvel-api](https://github.com/fiveisprime/marvel-api "marvel-api") Node.js wrapper for working with the official Marvel Comics API.
