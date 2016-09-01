@@ -22,6 +22,13 @@ Marvel Heroes Client App created using [React](https://facebook.github.io/react/
 # Commands
 
 ```
+npm install
+```
+Install all dependencies listed on package.json.
+
+
+
+```
 npm start
 ```
-starts node server (API) and local client dev server on [http://localhost:8080/](http://localhost:8080/)
+Starts node server (API) and local client dev server on [http://localhost:8080/](http://localhost:8080/).
