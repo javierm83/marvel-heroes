@@ -1,0 +1,18 @@
+@import "settings";
+@import "base/reset";
+
+body {
+	background: white;
+}
+
+footer {
+	margin-top: 20px;
+
+	a {
+		padding: 5px 10px 5px 0;
+	}
+}
+
+.card {
+	background: blue;
+}

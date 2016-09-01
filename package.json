@@ -21,10 +21,15 @@
     "redux-logger": "^2.6.1",
     "redux-promise-middleware": "^3.2.0",
     "redux-thunk": "^2.1.0",
-    "webpack": "^1.12.9",
+    "webpack": "^1.13.2",
     "webpack-dev-server": "^1.14.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "css-loader": "^0.24.0",
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
+    "style-loader": "^0.13.1"
+  },
   "scripts": {
     "webpack": "./node_modules/.bin/webpack-dev-server --content-base src --inline --hot",
     "server": "node server",
