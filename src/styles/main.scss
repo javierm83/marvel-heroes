@@ -1,18 +1,12 @@
-@import "settings";
 @import "base/reset";
-
-body {
-	background: white;
-}
-
-footer {
-	margin-top: 20px;
-
-	a {
-		padding: 5px 10px 5px 0;
-	}
-}
-
-.card {
-	background: blue;
-}
+@import "base/variables";
+@import "base/typography";
+@import "helpers/helpers";
+@import "helpers/functions";
+@import "helpers/mixins";
+@import "layout/grid";
+@import "layout/header";
+@import "layout/footer";
+@import "components/cards";
+@import "components/navigation";
+@import "pages/heroes";
