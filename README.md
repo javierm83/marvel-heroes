@@ -18,3 +18,10 @@ Marvel Heroes Client App created using [React](https://facebook.github.io/react/
 [Webpack](https://webpack.github.io/ "Webpack") Module Bundler.
 
 [marvel-api](https://github.com/fiveisprime/marvel-api "marvel-api") Node.js wrapper for working with the official Marvel Comics API.
+
+# Commands
+
+```
+npm start
+```
+starts node server (API) and local client dev server on [http://localhost:8080/](http://localhost:8080/)
