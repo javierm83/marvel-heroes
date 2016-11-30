@@ -31,4 +31,4 @@ Install all dependencies listed on package.json.
 ```
 npm start
 ```
-Starts node server (API) and local client dev server on [http://localhost:8080/](http://localhost:8080/).
+Starts local client dev server on [http://localhost:8080/](http://localhost:8080/).
